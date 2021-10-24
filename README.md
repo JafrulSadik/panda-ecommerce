@@ -1,2 +1,2 @@
-# panda-ecommerce
-A demo website for basic bootstrap learning.
+# Panda-Commerce
+<a herf="https://jafrulsadik.github.io/panda-ecommerce/">Live link<\a>
