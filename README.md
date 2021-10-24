@@ -1,2 +1,2 @@
-# Panda-Commerce
-<a herf="https://jafrulsadik.github.io/panda-ecommerce/">Live link</a>
+### Panda-Commerce
+[Live Project:](https://jafrulsadik.github.io/panda-ecommerce/)
